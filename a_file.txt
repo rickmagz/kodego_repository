@@ -1,0 +1,1 @@
+a string enclosed with double quotes to a file
